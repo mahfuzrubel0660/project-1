@@ -2,7 +2,7 @@
 
 Project-1
 
-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   ---- gothub access token
+
 
 Project 1 - DevOps (Implementation)
 
